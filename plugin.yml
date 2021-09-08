@@ -1,0 +1,8 @@
+main: com.luscinia.elytraBounce.Main
+name: ElytraBounce
+description: A plugin to enable or disable elytra bouncing!
+version: 1.0
+commands:
+  bounce:
+    aliases: [eb]
+    description: A command to toggle elytra bouncing!
