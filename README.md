@@ -4,7 +4,7 @@ player to 'bounce' and gain altitude, speed, and momentum. It was designed with 
 or unequipping an elytra will work as in vanilla Minecraft. Additionally, players with elytra bouncing enabled can temporarily 
 disable bouncing by pressing SHIFT, allowing them to land. Upon landing, elytra bouncing will be re-enabled.
 
-[Video Demonstration] (https://www.youtube.com/watch?v=RijfByMlIGU)
+[Video Demonstration](https://www.youtube.com/watch?v=RijfByMlIGU)
 
 ### Permissions:
 - elytrabounce.bounce | Gives the player permission to enable or disable personal elytra bouncing
